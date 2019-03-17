@@ -6,11 +6,18 @@
 
 ```shell
 ''' 周杰伦歌词_自由发挥 '''
+我知道
+我的世界 一种解
+我一直实现 语不是我
+有什么(客) 我只是一口
+我想想我不来 你的微笑
+我说 你我你的你
 
-
-
-'''不知道什么英文文章_自由发挥'''
-
+'''古诗_自由发挥'''
+何人无不见，此地自何如。
+一夜山边去，江山一夜归。
+山风春草色，秋水夜声深。
+何事同相见，应知旧子人。
 ```
 
 
@@ -23,7 +30,9 @@
 
 #### Code：
 
-​	Github
+​	[Github](https://github.com/sadjjk/LSTM_txt.git)
+
+​	https://github.com/sadjjk/LSTM_txt.git
 
 ​	Run:
 
@@ -32,15 +41,11 @@ python train.py --input_file "文件.txt"
 python test.py --start_string "开头词"
 ```
 
-​	鸣谢           
+​	鸣谢[hzy46](https://github.com/hzy46) 及他的[项目](https://github.com/hzy46/Char-RNN-TensorFlow)、[NELSONZHAO](https://github.com/NELSONZHAO)及他的[项目](https://github.com/NELSONZHAO/zhihu/tree/master/anna_lstm)
 
 ​	源码都是来自他们，仅做了少量的参数修改
 
 ​	虽然他们根本不认识我
-
-
-
-
 
 PS：*这个拖延了一个多月的的Demo，终于要收尾。再不收尾，我该抽自己了。坐下电脑前，觉得自己还有救，码下了这些字。代码上使用的还是最底层的tensorflow,所以代码量非常多。*
 
